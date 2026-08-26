@@ -1,19 +1,19 @@
 ﻿<div align="center">
 
   <!-- Animated Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00F2FE,50:4FACFE,100:000000&height=220&section=header&text=Hi%2C%20I'm%20Tamim%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20Next.js%20%26%20Distributed%20Systems%20Architect&descFontSize=19&descAlignY=62" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00F2FE,50:4FACFE,100:000000&height=220&section=header&text=Hi%2C%20I'm%20Tamim%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20Distributed%20Systems%20%26%20E-Commerce%20Architect&descFontSize=18&descAlignY=62" width="100%"/>
 
   <!-- Dynamic Typing Effect -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&lines=Building+Scalable+Fullstack+Ecosystems;Specialized+in+Next.js,+Fastify,+Redis+%26+Postgres;Architecting+Tatka+Bazar+2.0;Open+for+Exciting+Innovations+%26+Collaborations" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&lines=Building+Scalable+Fullstack+Applications;Specialized+in+React,+Next.js,+Node.js+%26+PostgreSQL;Creator+of+Beauty-Glowry-2.0+%26+Tatka-Bazar-2.0;Open+for+Exciting+Innovations+%26+Collaborations" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <!-- Social Badges -->
+  <!-- Quick Badges -->
   <p align="center">
-    <a href="mailto:contact@tatkabazar.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-    <a href="https://github.com/mdtamim1"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+    <a href="https://beauty-glowry-2-0.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Live_Project-Beauty--Glowry_2.0-00F2FE?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo"/></a>
+    <a href="https://github.com/mdtamim1"><img src="https://img.shields.io/badge/GitHub-Follow%20%40mdtamim1-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   </p>
 
 </div>
@@ -24,12 +24,14 @@
 
 ```yaml
 name: Tamim
-role: Full-Stack Software Engineer & Solutions Architect
+role: Full-Stack Software Engineer & Web Architect
 location: Bangladesh 🇧🇩
-focus: High-Performance Web Applications, Real-time Systems & Scalable APIs
-current_project: Tatka Bazar 2.0 (High-Speed Multi-Vendor Quick-Commerce)
-core_stack: [Next.js, Fastify, TypeScript, PostgreSQL, Prisma, Redis, Turborepo]
-motto: "Clean Code. Low Latency. Resilient Architecture."
+focus: High-Performance E-Commerce Platforms, Microservices & Robust APIs
+flagship_projects:
+  - Beauty-Glowry-2.0 (Skincare & Beauty E-Commerce Ecosystem)
+  - Tatka-Bazar-2.0 (Hyper-Fast Quick-Commerce Multi-Vendor Engine)
+core_stack: [React, Next.js, TypeScript, PostgreSQL, Prisma, Redis, TailwindCSS, Docker]
+motto: "Clean Architecture. Flawless UX. High Scalability."
 ```
 
 ---
@@ -40,45 +42,67 @@ motto: "Clean Code. Low Latency. Resilient Architecture."
 
 | Domain | Technologies & Tools |
 | :--- | :--- |
-| **Frontend & UI** | <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,redux,html,css" /> |
-| **Backend & APIs** | <img src="https://skillicons.dev/icons?i=nodejs,fastify,express,graphql" /> |
-| **Database & Cache** | <img src="https://skillicons.dev/icons?i=postgres,prisma,redis,mongodb" /> |
-| **DevOps & Cloud** | <img src="https://skillicons.dev/icons?i=docker,cloudflare,nginx,git,github,githubactions" /> |
-| **Architecture** | Turborepo Monorepo, Microservices, WebSocket, Web Audio API, Circuit Breaker |
+| **Frontend & UI** | <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,html,css" /> |
+| **Backend & APIs** | <img src="https://skillicons.dev/icons?i=nodejs,express,fastify,graphql" /> |
+| **Database & ORM** | <img src="https://skillicons.dev/icons?i=postgres,prisma,redis,mongodb" /> |
+| **DevOps & Cloud** | <img src="https://skillicons.dev/icons?i=docker,vercel,cloudflare,git,github,githubactions" /> |
+| **Architecture** | Monorepo / Turborepo, BullMQ Background Queues, RBAC Security, REST & WebSockets |
 
 </div>
 
 ---
 
-### 🌟 Featured Flagship Project
+### ⭐ Featured Projects
 
 <table>
   <tr>
-    <td width="55%">
-      <h3 align="left">🛒 Tatka Bazar 2.0 (তাতকা বাজার)</h3>
+    <td width="50%" valign="top">
+      <h3 align="left">✨ Beauty-Glowry-2.0</h3>
       <p align="left">
-        A hyper-fast, enterprise-grade multi-vendor grocery and quick-commerce ecosystem featuring Storefront, Super Admin, Vendor Hub, and Rider PWA with real-time audio notifications, PostgreSQL connection timeouts, Redis queues, and Fastify high-throughput edge-caching.
+        <b>Modern Full-Stack Beauty & Skincare E-Commerce Platform</b>
       </p>
       <p align="left">
-        <b>Tech:</b> Next.js 14, Fastify, PostgreSQL (Prisma), Redis, Turborepo, TailwindCSS
+        Production-ready e-commerce solution featuring dynamic brand management, role-based access control (RBAC), Bangladesh geocode selector, BullMQ background job queues, and advanced admin product inventory workflows.
       </p>
-      <a href="https://github.com/mdtamim1/Tatka-bazar-2.0">
-        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
+      <p align="left">
+        <img src="https://skillicons.dev/icons?i=react,ts,tailwind,postgres,prisma" height="28"/>
+      </p>
+      <p align="left">
+        <a href="https://beauty-glowry-2-0.vercel.app" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-00F2FE?style=for-the-badge&logo=vercel&logoColor=black" />
+        </a>
+        <a href="https://github.com/mdtamim1/Beauty-Glowry-2.0" target="_blank">
+          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
     </td>
-    <td width="45%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdtamim1&repo=Tatka-bazar-2.0&theme=tokyonight&border_radius=10" />
+    <td width="50%" valign="top">
+      <h3 align="left">🛒 Tatka Bazar 2.0</h3>
+      <p align="left">
+        <b>Enterprise Multi-Vendor Quick-Commerce Monorepo</b>
+      </p>
+      <p align="left">
+        High-throughput grocery ecosystem with Storefront, Super Admin, Vendor Hub, and Rider PWA. Features Web Audio API real-time order chimes, Fastify edge-caching, Redis queues, and PostgreSQL statement guards.
+      </p>
+      <p align="left">
+        <img src="https://skillicons.dev/icons?i=nextjs,fastify,postgres,prisma,redis" height="28"/>
+      </p>
+      <p align="left">
+        <a href="https://github.com/mdtamim1/Tatka-bazar-2.0" target="_blank">
+          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 GitHub Analytics & Real-time Metrics
+### 📊 GitHub Activity & Real-Time Stats
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=mdtamim1&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&count_private=true" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdtamim1&layout=compact&theme=tokyonight&border_radius=10&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mdtamim1&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&count_private=true" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdtamim1&layout=compact&theme=tokyonight&border_radius=10&langs_count=6" height="175" />
 </div>
 
 <br/>
@@ -86,16 +110,6 @@ motto: "Clean Code. Low Latency. Resilient Architecture."
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdtamim1&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
 </div>
-
----
-
-### 🐍 Contribution Activity Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mdtamim1/mdtamim1/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mdtamim1/mdtamim1/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mdtamim1/mdtamim1/output/github-contribution-grid-snake.svg">
-</picture>
 
 ---
 
